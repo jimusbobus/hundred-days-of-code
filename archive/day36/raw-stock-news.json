@@ -1,0 +1,41 @@
+[
+  {
+    'source': {
+      'id': None,
+      'name': 'Benzinga'
+    },
+    'author': 'Shivani Kumaresan',
+    'title': "Tesla Interns Face The Heat Of Musk's Budget Squeeze",
+    'description': "Tesla's abrupt internship offer withdrawals have left students in limbo, scrambling for alternatives. Miami University's Joshua Schreiber shared his shock, losing his offer within hours of receiving flight details. The company's recent layoffs, attributed by …",
+    'url': 'https://www.benzinga.com/news/24/05/38587826/tesla-interns-face-the-heat-of-musks-budget-squeeze',
+    'urlToImage': 'https://cdn.benzinga.com/files/images/story/2024/05/02/Tesla-Investor-Day.png?width=1200&height=800&fit=crop',
+    'publishedAt': '2024-05-02T17:04:14Z',
+    'content': 'Tesla Inc\xa0TSLA has left aspiring summer interns in a quandary, rescinding offers shortly before their scheduled start dates.\xa0\r\nThe abrupt decision has left many students scrambling to secure alternat… [+2217 chars]'
+  },
+  {
+    'source': {
+      'id': None,
+      'name': 'Forbes'
+    },
+    'author': 'Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/',
+    'title': 'Nio’s April Deliveries Were Solid. Is The Stock Undervalued At $5?',
+    'description': 'Nio’s performance was also better than its rivals.',
+    'url': 'https://www.forbes.com/sites/greatspeculations/2024/05/03/nios-april-deliveries-were-solid-is-the-stock-undervalued-at-5/',
+    'urlToImage': 'https://imageio.forbes.com/specials-images/imageserve/6634491713ae130b59347b27/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds',
+    'publishedAt': '2024-05-03T12:00:00Z',
+    'content': 'BEIJING, CHINA - APRIL 25: NIO ET5 is on display during the 2024 Beijing International Automotive ... [+] Exhibition (Auto China 2024) at China International Exhibition Center on April 25, 2024 in Be… [+3416 chars]'
+  },
+  {
+    'source': {
+      'id': None,
+      'name': 'Forbes'
+    },
+    'author': 'Trefis Team, Contributor, \n Trefis Team, Contributor\n https://www.forbes.com/sites/greatspeculations/people/trefis/',
+    'title': 'Li Auto Is Down 30% This Year, What’s Happening With The Stock?',
+    'description': 'Chinese luxury electric vehicle maker Li Auto stock saw growth slow over April, with deliveries coming in at 25,787 vehicles, up just 0.41% versus last year.',
+    'url': 'https://www.forbes.com/sites/greatspeculations/2024/05/02/li-auto-is-down-30-this-year-whats-happening-with-the-stock/',
+    'urlToImage': 'https://imageio.forbes.com/specials-images/imageserve/66338601612c5498b6acf39f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds',
+    'publishedAt': '2024-05-02T12:30:01Z',
+    'content': 'BEIJING, CHINA - APRIL 25: Li Auto Li L9 is on display during the 2024 Beijing International ... [+] Automotive Exhibition (Auto China 2024) at China International Exhibition Center on April 25, 2024… [+3452 chars]'
+  }
+]
