@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Edit Book Rating</title>
+    </head>
+    <body>
+        <h1>Edit Book Rating</h1>
+        <!-- Assuming 'update_rating' is the route that handles the update operation -->
+        <!-- and 'book_id' is the variable that holds the ID of the book being edited -->
+        <form action="{{ url_for('edit', book_id=book.id) }}" method="post">
+            <label for="rating">Rating:</label>
+            <input id="rating" name="rating" value="{{ book.rating }}" required>
+            <input type="submit" value="Update Rating">
+        </form>
+
+        <a href="{{ url_for('home') }}">Return to Library</a>
+
+    </body>
+</html>

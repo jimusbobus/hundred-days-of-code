@@ -1,6 +1,6 @@
 import sqlite3
 
-db = sqlite3.connect("books-collection.db")
+db = sqlite3.connect("instance/books-collection.db")
 cursor = db.cursor()
 
 
