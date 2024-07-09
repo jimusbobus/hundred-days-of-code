@@ -98,7 +98,8 @@
 	 transition: ease-in-out 600ms;
 }
  .front {
-	 background-size: cover;
+	 background-size: contain;
+	 background-repeat: no-repeat;
 	 padding: 2rem;
 	 font-size: 1.618rem;
 	 font-weight: 600;
@@ -197,8 +198,14 @@
     margin-top: 40px;
     margin-bottom: 20px;
 }
-.rating {
-    color: #E4BB23;
+.tmdb_good_rating {
+    color: green;
+}
+.tmdb_bad_rating {
+    color: red;
+}
+.my_rating {
+    color: gold;
 }
 .review {
     font-style: italic;
